@@ -2,5 +2,5 @@
 *.pyo
 .svn
 .egg-info
-uild
+build
 dist
